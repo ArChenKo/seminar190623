@@ -11,7 +11,7 @@ for i in range(s):
     x = i
     y = s - i
     if x * y == p:
-        print (f"Загаданные числа: X={x}, Y={y}.")
+        print (f"Загаданные числа: X = {x}, Y = {y}.")
         break
 else:
     print("Подсказки заданы неверно(")
